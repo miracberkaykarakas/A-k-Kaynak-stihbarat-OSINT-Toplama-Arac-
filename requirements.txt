@@ -1,0 +1,3 @@
+# Açık Kaynak İstihbarat (OSINT) Toplama Aracı
+# Python 3.8+ – sadece standart kütüphane (socket, subprocess, urllib, json)
+# WHOIS için sistemde 'whois' komutu olmalı (macOS/Linux'ta genelde vardır)
